@@ -1,1 +1,1 @@
-# multi-agent-repo
+This project contains a factorial function with step-by-step debug logging implemented by a multi-agent system.
