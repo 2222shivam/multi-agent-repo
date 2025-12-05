@@ -6,6 +6,7 @@ def factorial(n):
     else:
         result = 1
         for i in range(2, n + 1):
+            print(f'Multiplying {result} by {i}')  # Print each multiplication step
             result *= i
         return result
 
